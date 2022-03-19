@@ -50,6 +50,18 @@
           "on-tetriary-container": {
             "value": "#16567A",
             "type": "color"
+          },
+          "error": {
+            "value": "#FE5151",
+            "type": "color"
+          },
+          "warning": {
+            "value": "#FD9011",
+            "type": "color"
+          },
+          "approval": {
+            "value": "#72C55D",
+            "type": "color"
           }
         }
       }
